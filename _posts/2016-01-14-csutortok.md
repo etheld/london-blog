@@ -19,7 +19,9 @@ Uton hazafele belefutottam a lights festivalba, ami egesz erdekes, mindenfele fe
 ## Otthon
 Hazafele beugrottunk az argosba, itt is erzodik a nyugat. Egy terminalon/otthon kivalasztod a termeket, kifizeted, odamesz, es kapod a termeket a megadott kod alapjan. Persze szarul hangzik, hogy elveszik az ember munkajat a gepek, de nekem mint vasarlonak, iszonyatosan tetszik.
 
-De a lenyeg, vettunk `hosugarzot`! Vegre nem lesz otthon fagyverem, a szamlat meg nem nekunk kell fizetni. Kicsit talan buntudatom van, de tekintve, hogy amikor itt fent kb lehet 10 fok, meg akkor is hideg a radiator, oszinten szolva nem erdekel. Ez itt egy rovidtavu lakas, igy is kezeljuk.
+De a lenyeg, vettunk *hosugarzot*!
+
+Vegre nem lesz otthon fagyverem, a szamlat meg nem nekunk kell fizetni. Kicsit talan buntudatom van, de tekintve, hogy amikor itt fent kb lehet 10 fok, meg akkor is hideg a radiator, oszinten szolva nem erdekel. Ez itt egy rovidtavu lakas, igy is kezeljuk.
 
 Hazafele beugrottunk egy gyorsetterembe, mar korabban is jartunk, Mighty Boxot ettunk, ami egy szendvics, egy kis sultkrumpli, es egy panirozott csirkecombot tartalmazott, mert ugye itt minden [halal](https://hu.wikipedia.org/wiki/Halal_%C3%A9tkez%C3%A9s). Tegnap kertunk +.5 fontert nagyobb dobozt, nem kellett volna. Kiadtak egy olyan dobozt, amibe a cipot veszi az ember, es tele volt pakolva sultkrumplival. Ennek ellenere az etel finom volt, es oszinten szolva, eleg olcso is.
 
