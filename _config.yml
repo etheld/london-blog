@@ -1,6 +1,6 @@
 # Where things are
 source:      .
-destination: ./_site
+destination: /home/superfly/public_html/london
 plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
 data_dir: ./_data
