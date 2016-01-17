@@ -17,7 +17,7 @@ Feldobtuk egy kis retrospective meetinggel, a modszer nagyon hasonlo, de sokban 
 
 Uton hazafele belefutottam a lights festivalba, ami egesz erdekes, mindenfele fenyek vannak, es furcsa dolgokat reptetnek, amiket szines fenyekkel vilagitanak meg.
 
-![Ez meg mi?](vilagitas.jpg)
+![Ez meg mi?](/vilagitas.jpg)
 
 ## Otthon
 Hazafele beugrottunk az argosba, itt is erzodik a nyugat. Egy terminalon/otthon kivalasztod a termeket, kifizeted, odamesz, es kapod a termeket a megadott kod alapjan. Persze szarul hangzik, hogy elveszik az ember munkajat a gepek, de nekem mint vasarlonak, iszonyatosan tetszik.
@@ -29,8 +29,8 @@ Hazafele beugrottunk egy gyorsetterembe, mar korabban is jartunk, Mighty Boxot e
 Ma is beugrottunk, hideg volt, es valami meleg etelre vagytunk. Ma nem kerunk 2 large mighty boxot, mert az sok volt tegnap, de jo a krumpli, kerjunk egy nagyot meg egy kozepeset. Nos, a kozepes menuhoz, fognak egy viszonylag nagyobb papirzacskot, megtomik krumplival, de ugy, hogy folyik kifele mindenfele, majd utana dobnak meg egy lapattal, nem akartunk elhinni. A kicsi adag is olyan volt, hogy nem tudod megenni. 8.88 GBP volt a kettonk menuje, ebben kola, krumpli, csirkeszarany/hamburger van benne. Ez otthon egy picit dragabb etteremnek is elmenne. Itt meg egyenesen vicc. Ma a belvarosban 3 szendvicsert fizettem hasonlo osszeget. Mondjuk, a 3 szendvics is lehet eleg lett volna kettonkre.
 
 Csinaltam kepeket is:
-![Kezemben tartom, hogy erezzetek a mereteket](sultkrumpli-meret.jpg)
-![Kezemben tartom, hogy erezzetek a mereteket](sultkrumpli-bent.jpg)
+![Kezemben tartom, hogy erezzetek a mereteket](/sultkrumpli-meret.jpg)
+![Kezemben tartom, hogy erezzetek a mereteket](/sultkrumpli-bent.jpg)
 
 
 
