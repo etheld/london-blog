@@ -22,7 +22,7 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems:      [jekyll-paginate]
+gems:      [jekyll-paginate, jekyll-redirect-from]
 
 # Conversion
 markdown:    kramdown
