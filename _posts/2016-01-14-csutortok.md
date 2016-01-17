@@ -5,7 +5,7 @@ date: 2016-01-14 10:00:00
 categories: london
 tags: london elsohet
 lead_text: 'Csutortok'
-featured_image: 'electric-heater.jpg'
+featured_image: '/electric-heater.jpg'
 redirect_from:
  - /csutortok/
  - /csutortok.html
