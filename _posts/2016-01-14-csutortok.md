@@ -6,6 +6,9 @@ categories: london
 tags: london elsohet
 lead_text: 'Csutortok'
 featured_image: 'electric-heater.jpg'
+redirect_from:
+ - /csutortok/
+ - /csutortok.html
 ---
 
 Meloban semmi kulonos, csapattal volt meeting, tegnap megtudtam sokat a projektrol. Ma pedig belevetettem magam az API contractokba, izgi mi? Hat nem.
