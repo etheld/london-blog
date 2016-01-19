@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Rolam
-permalink: /rolam/
+permalink: /about/
 ---
 
 
