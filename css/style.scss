@@ -5,17 +5,23 @@
 
 
 $scotch-primary: rgb(255, 69, 69);
-$scotch-secondary: #FF7B7B;
+$scotch-secondary: #ff4545;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
 
 
 body {
+    background-color: #333;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    color: #ddd;
     @extend %roboto;
     font-size: 18px;
     line-height: 30px;
     -webkit-font-smoothing: antialiased;
+}
+.row {
+  background-color: #444;
 }
 p {
     margin-bottom: 30px;
@@ -108,8 +114,7 @@ h1.special {
 
 .tile {
     position: relative;
-    box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.135);
-    margin-bottom: 125px;
+    margin-bottom: 5px;
 
     .inner-guts { padding: 50px; }
 
@@ -181,7 +186,6 @@ h1.special {
         font-size: 35px;
         font-weight: 300;
         line-height: 49px;
-        color: #484848;
 
         p {
             margin: 0;
@@ -223,7 +227,6 @@ h1.special {
 
 aside {
     font-size: 17px;
-    color: #525252;
     margin: 16px 0;
     @extend %oswald;
 
