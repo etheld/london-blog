@@ -53,7 +53,7 @@ Rakerdeztunk hatha a szobak szamat visszavesszuk, akkor lesz tobb lehetoseg de s
 * council tax: ezt csak azert, mert itt laksz, epulet tipusatol fugg, olyan 1200 font/evrol beszelunk
 * tv license: ha van tv-d fizess, egyelore ugy nez ki, ha bejelentem, hgoy van tv-m de nem nezem, akkor nem lesz baj. Azt meselte az ingatlanos, hogy mennek kis kocsival es scannelik, hogy ki nez tv-t, mert az valamilyen szinten detektalhato. Hat sok sikert kivanok hozza, ez az epulet 2 toronybol all, az egyik 24 emelet a masik 12.
 
-# Az ugynokseg eleg kemenyen lecsekkol:
+# Az ugynokseg eleg kemenyen lecsekkol
 Megkerdeznek egy ismerost velemeny miatt, megnezik hol dolgozol, mennyit keresel.
 Ha kiberelsz 1 lakast, korbenez a ceg, es megnezi, mi milyen allapotban van, ugyanez atadaskor. Ez baratsagos 420 fontba kerul, ebben a hattervizsgalodas is benne van.
 
