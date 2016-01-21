@@ -49,8 +49,7 @@ Nem mintha a mostanival baj lenne, de ez egy D kategorias lakas az energiatanusi
 
 Rakerdeztunk hatha a szobak szamat visszavesszuk, akkor lesz tobb lehetoseg de sajnos nem tul sokat segitett. Emlitette, hogy ha esetleg varnank 3 hetet, akkor lesznek jobbak, de meg 3 hetet masnal csovezni, raadasul hasonlo penzt fizetni erte(itt 300 pcw, amit kineztunk 400pcw), akkor mar inkabb kifizetem a minoseg arat, kesobb meg majd talalunk modot, hogy ugy alakitsuk, ami nekunk tetszik.
 
-# Erdekesseg,
-## Adok:
+# Adok:
 * council tax: ezt csak azert, mert itt laksz, epulet tipusatol fugg, olyan 1200 font/evrol beszelunk
 * tv license: ha van tv-d fizess, egyelore ugy nez ki, ha bejelentem, hgoy van tv-m de nem nezem, akkor nem lesz baj. Azt meselte az ingatlanos, hogy mennek kis kocsival es scannelik, hogy ki nez tv-t, mert az valamilyen szinten detektalhato. Hat sok sikert kivanok hozza, ez az epulet 2 toronybol all, az egyik 24 emelet a masik 12.
 
