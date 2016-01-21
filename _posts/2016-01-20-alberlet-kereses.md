@@ -1,3 +1,13 @@
+---
+layout: inner
+title: 'Alberlet kereses'
+date: 2016-01-21 10:00:00
+categories: london
+tags: london elsohet
+lead_text: 'Alberlet kereses'
+featured_image: '/floorplan.png'
+---
+
 Uj nap, uj lehetosegek. Egy excelbe osszegyujtottem az ejjel szinte minden infot, ami felkutathato a neten a lakasokrol amiket ma meg akarunk nezni. Ar, pozicio, ido a munkaba, milyen vonal mellett van, hany meter tavolsagban, hany szoba, hany nm, milyen energiatanusitvany stb.
 Elkuldtem a listat Pankanak, azert megis Neki vannak magasabb igenyei(az enyem kb annyi, hogy legyen agy, melegviz, meg konnyu bejaras, es internet persze). Ugy nez ki, valami nagyon elit ceget sikerult kifogni, raadasul ugy tunik, hogy a cegek felosztottak a teruletet egymas kozott, a tegnapi sracot kerdeztuk, egyaltalan nem volt nekik ezen a teruleten kiado lakasuk. A holgy akivel tegnap beszeltem, kuldott kb 10 lakast, mind olyan, hogy ranezve a kepekre, meguti a keleteuropai szintet(ezt kicsit fura kimondani itt nyugat europaban, de a britek igenytelenek, a huzos-madzagos kapcsolok, a dohos szobak, a kicsi lakasok, es ugy altalaban a kabatban ulok otthon, mert nem futok).
 
@@ -58,4 +68,5 @@ Hala istennek lehet neten fizetni, igy tudjuk hasznalni a hitelkartyakat, mert e
 
 Ha normalis lakasban akarsz lakni, ennyi penzzel kell megindulni Londonba.
 
+A lakasrol van egy pdf amiben a legtobb adat/kepek benne vannak [itt](/chpk3405620-ll_web.pdf) talalhato
 
