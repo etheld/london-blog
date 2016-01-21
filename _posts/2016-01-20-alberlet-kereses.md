@@ -5,7 +5,7 @@ date: 2016-01-20 22:00:00
 categories: london
 tags: london elsohet
 lead_text: 'Alberlet kereses'
-featured_image: '/floorplan.png'
+featured_image: '/resources/floorplan.png'
 ---
 
 Uj nap, uj lehetosegek. Egy excelbe osszegyujtottem az ejjel szinte minden infot, ami felkutathato a neten a lakasokrol amiket ma meg akarunk nezni. Ar, pozicio, ido a munkaba, milyen vonal mellett van, hany meter tavolsagban, hany szoba, hany nm, milyen energiatanusitvany stb.
@@ -67,7 +67,7 @@ Hala istennek lehet neten fizetni, igy tudjuk hasznalni a hitelkartyakat, mert e
 
 Ha normalis lakasban akarsz lakni, ennyi penzzel kell megindulni Londonba.
 
-A lakasrol van egy pdf amiben a legtobb adat/kepek benne vannak [itt](/chpk3405620-ll_web.pdf) talalhato.
+A lakasrol van egy pdf amiben a legtobb adat/kepek benne vannak [itt](/resources/chpk3405620-ll_web.pdf) talalhato.
 
-Az alaprajz kb igy nez ki: ![](/floorplan_half.png)
+Az alaprajz kb igy nez ki: ![](/resources/floorplan_half.png)
 
