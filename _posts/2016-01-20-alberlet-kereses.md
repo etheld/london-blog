@@ -69,5 +69,5 @@ Ha normalis lakasban akarsz lakni, ennyi penzzel kell megindulni Londonba.
 
 A lakasrol van egy pdf amiben a legtobb adat/kepek benne vannak [itt](/chpk3405620-ll_web.pdf) talalhato.
 
-Az alaprajz kb igy nez ki: ![](/floorplan.png)
+Az alaprajz kb igy nez ki: ![](/floorplan_half.png)
 
